@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to Trading Stocks. Data Science can be used to predict whether stocks will rise or fall in value and so a data scientist can apply their knowledge to make good trading decisions
