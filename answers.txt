@@ -5,3 +5,11 @@ Answer: Version control, collaboration, and remotely saving code
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to Trading Stocks. Data Science can be used to predict whether stocks will rise or fall in value and so a data scientist can apply their knowledge to make good trading decisions
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging merges two branches, while rebasing puts your current commit on the end of a separate branch
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to become better at making predictions based on data and predictive modeling
